@@ -1,0 +1,3 @@
+C:/Users/Maksim/CLionProjects/lab222/cmake-build-debug/CMakeFiles/lab222.dir
+C:/Users/Maksim/CLionProjects/lab222/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Maksim/CLionProjects/lab222/cmake-build-debug/CMakeFiles/rebuild_cache.dir
